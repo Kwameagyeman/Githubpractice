@@ -1,3 +1,5 @@
 # Githubpractice
 more practicing of git
-# There is nothing permanent,except change
+git clone:
+clone repository on github to our local machine
+
